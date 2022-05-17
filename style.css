@@ -1,0 +1,32 @@
+#code{
+    display: flex;
+    background-color:  rgb(231, 216, 197);
+}
+#t_apps{
+    background-color: rgb(231, 216, 197);
+}
+body{
+    background-color: cornsilk;
+}
+#AI_Webpages{
+    margin-top: 20px;
+background-color: rgb(248, 223, 223);
+}
+p{
+    color:rebeccapurple;
+    text-align: center;
+    font-size:20px;
+}
+h3{
+    color:rgb(127, 144, 243);
+}
+.copy_right_footer {
+    position: fixed;
+    color: #9e3809;
+    font-size: medium;
+    bottom: 0;
+    width: 80%;
+    background-color: #b4d7f5;
+    line-height: 2;
+    text-align: center;
+ }
